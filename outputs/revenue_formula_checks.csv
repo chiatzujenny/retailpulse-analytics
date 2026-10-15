@@ -1,0 +1,5 @@
+transaction_id,quantity,unit_price,discount_pct,discount_was_missing,revenue,formula_revenue_with_imputed_discount,revenue_formula_difference
+TXN1008,8,26.66,0.0,True,191.95,213.28,-21.33
+TXN1073,5,86.19,0.0,True,366.31,430.95,-64.64
+TXN1074,8,124.66,0.0,True,847.69,997.28,-149.59
+TXN1120,10,26.21,0.0,True,235.89,262.1,-26.21

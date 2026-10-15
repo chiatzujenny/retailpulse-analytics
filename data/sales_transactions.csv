@@ -1,0 +1,151 @@
+transaction_id,customer_id,date,region,product,category,quantity,unit_price,discount_pct,revenue,payment_method,returned,customer_rating
+TXN1000,C045,24/03/23,South,Mouse,Accessories,7,28.33,10,178.48,Cash,FALSE,
+TXN1001,C023,04/10/23,North,Laptop,Computers,4,1069.16,10,3848.98,PayPal,FALSE,4
+TXN1002,C042,29/09/23,North,Headphones,Audio,8,143.54,0,1148.32,PayPal,FALSE,4
+TXN1003,C053,01/01/23,South,Monitor,Computers,5,325.93,20,1303.72,Debit Card,FALSE,5
+TXN1004,C035,03/11/23,North,Monitor,Computers,7,352.96,0,2470.72,Credit Card,FALSE,4
+TXN1005,C006,15/06/23,North,Keyboard,Accessories,10,85.89,10,773.01,Debit Card,FALSE,2
+TXN1006,C048,08/09/23,South,Mouse,Accessories,3,30.14,5,85.9,PayPal,TRUE,1
+TXN1007,C044,10/01/23,West,Speaker,Audio,7,120.67,15,717.99,Credit Card,FALSE,5
+TXN1008,C008,27/02/23,North,Mouse,Accessories,8,26.66,,191.95,Credit Card,TRUE,4
+TXN1009,C047,05/07/23,South,Tablet,Computers,5,510.48,0,2552.4,PayPal,FALSE,5
+TXN1010,C009,07/06/23,North,USB Hub,Accessories,4,42.82,15,145.59,Cash,FALSE,3
+TXN1011,C053,03/05/23,North,Laptop,Computers,8,927.09,0,7416.72,Cash,FALSE,2
+TXN1012,C009,30/01/23,West,Laptop,Computers,8,1002.66,0,8021.28,Debit Card,FALSE,1
+TXN1013,C010,04/05/23,East,Mouse,Accessories,3,31.19,5,88.89,Credit Card,FALSE,4
+TXN1014,C035,18/10/23,East,Monitor,Computers,6,365.81,15,1865.63,Debit Card,FALSE,4
+TXN1015,C006,10/02/23,South,Monitor,Computers,5,362.75,15,1541.69,Credit Card,FALSE,4
+TXN1016,C003,13/02/23,East,Speaker,Audio,2,123.82,5,235.26,PayPal,FALSE,4
+TXN1017,C049,06/09/23,South,Tablet,Computers,8,484.98,10,3491.86,Credit Card,FALSE,5
+TXN1018,C033,05/02/23,East,Laptop,Computers,6,957.76,0,5746.56,Credit Card,FALSE,3
+TXN1019,C042,30/09/23,West,Speaker,Audio,2,126.36,20,202.18,PayPal,FALSE,
+TXN1020,C025,06/03/23,South,Monitor,Computers,5,370.65,0,1853.25,Cash,FALSE,5
+TXN1021,C011,07/03/23,East,Speaker,Audio,1,127.74,0,127.74,PayPal,TRUE,4
+TXN1022,C023,04/12/23,West,USB Hub,Accessories,10,42.22,10,379.98,Credit Card,FALSE,4
+TXN1023,C051,01/09/23,East,Monitor,Computers,6,349.79,0,2098.74,PayPal,TRUE,5
+TXN1024,C046,09/10/23,North,Charger,Accessories,9,25.01,5,213.84,Credit Card,FALSE,5
+TXN1025,C015,26/03/23,North,Tablet,Computers,1,528.77,5,502.33,Cash,FALSE,2
+TXN1026,C040,16/05/23,West,Headphones,Audio,10,153.47,15,1304.5,Cash,FALSE,5
+TXN1027,C039,28/09/23,North,Laptop,Computers,3,1039.35,20,2494.44,Credit Card,FALSE,4
+TXN1028,C049,07/11/23,North,Keyboard,Accessories,7,83.67,0,585.69,Cash,FALSE,3
+TXN1029,C040,05/08/23,South,USB Hub,Accessories,4,42.04,0,168.16,PayPal,FALSE,4
+TXN1030,C011,19/04/23,East,Webcam,Accessories,9,86.12,10,697.57,Cash,FALSE,5
+TXN1031,C022,04/10/23,South,Headphones,Audio,3,145.29,5,414.08,Debit Card,FALSE,4
+TXN1032,C050,20/12/23,East,Keyboard,Accessories,5,72.58,20,290.32,Cash,FALSE,3
+TXN1033,C004,13/04/23,North,Monitor,Computers,3,354.46,15,903.87,Debit Card,TRUE,4
+TXN1034,C022,09/06/23,South,Webcam,Accessories,7,80.74,5,536.92,PayPal,FALSE,3
+TXN1035,C052,24/07/23,East,Mouse,Accessories,5,28.8,15,122.4,Cash,TRUE,2
+TXN1036,C041,10/12/23,East,Mouse,Accessories,9,29.25,10,236.92,Cash,FALSE,2
+TXN1037,C028,29/11/23,South,USB Hub,Accessories,7,37.34,10,235.24,Cash,FALSE,2
+TXN1038,C013,11/07/23,West,Mouse,Accessories,2,29.53,0,59.06,PayPal,TRUE,3
+TXN1039,C020,13/08/23,East,Webcam,Accessories,4,80.64,20,258.05,PayPal,TRUE,2
+TXN1040,C012,22/09/23,North,Webcam,Accessories,9,80.76,15,617.81,Debit Card,FALSE,
+TXN1041,C048,20/08/23,East,Tablet,Computers,2,531.2,5,1009.28,Credit Card,FALSE,3
+TXN1042,C008,03/03/23,North,Headphones,Audio,10,144.83,10,1303.47,PayPal,FALSE,3
+TXN1043,C010,07/05/23,South,Laptop,Computers,9,924.49,0,8320.41,Cash,FALSE,5
+TXN1044,C032,26/04/23,East,Charger,Accessories,10,25.11,0,251.1,Debit Card,FALSE,
+TXN1045,C042,02/02/23,North,Speaker,Audio,5,125.43,15,533.08,Cash,FALSE,4
+TXN1046,C034,23/06/23,North,Mouse,Accessories,2,27.35,10,49.23,Cash,FALSE,3
+TXN1047,C047,11/01/23,South,USB Hub,Accessories,4,39.96,20,127.87,PayPal,FALSE,3
+TXN1048,C001,29/10/23,East,Mouse,Accessories,7,26.6,10,167.58,Credit Card,TRUE,1
+TXN1049,C015,11/10/23,East,Speaker,Audio,8,108.33,15,736.64,Cash,FALSE,3
+TXN1050,C025,28/04/23,South,Headphones,Audio,3,149.93,15,382.32,PayPal,FALSE,3
+TXN1051,C044,29/10/23,East,Tablet,Computers,1,503.06,10,452.75,Debit Card,FALSE,3
+TXN1052,C051,23/04/23,South,Webcam,Accessories,4,91.45,15,310.93,Cash,FALSE,2
+TXN1053,C007,04/01/23,East,Tablet,Computers,2,521.56,10,938.81,Debit Card,FALSE,2
+TXN1054,C051,06/02/23,West,Monitor,Computers,8,382.21,5,2904.8,PayPal,FALSE,4
+TXN1055,C051,29/12/23,East,Mouse,Accessories,4,29.09,10,104.72,PayPal,TRUE,3
+TXN1056,C016,20/11/23,North,Laptop,Computers,2,963.63,10,1734.53,PayPal,FALSE,4
+TXN1057,C037,31/01/23,North,Monitor,Computers,6,369.6,15,1884.96,PayPal,TRUE,4
+TXN1058,C029,28/04/23,West,Headphones,Audio,6,142.17,15,725.07,PayPal,FALSE,4
+TXN1059,C047,04/02/23,East,Mouse,Accessories,10,28.65,,286.5,Credit Card,FALSE,1
+TXN1060,C051,17/01/23,North,Monitor,Computers,4,319.58,0,1278.32,Debit Card,FALSE,5
+TXN1061,C039,19/06/23,North,Mouse,Accessories,6,26.25,5,149.62,Credit Card,FALSE,
+TXN1062,C006,06/02/23,East,USB Hub,Accessories,2,42.61,0,85.22,Debit Card,FALSE,2
+TXN1063,C053,21/09/23,South,Headphones,Audio,10,159.01,10,1431.09,Cash,FALSE,5
+TXN1064,C011,02/05/23,East,Charger,Accessories,2,25.98,15,44.17,Cash,FALSE,5
+TXN1065,C054,23/05/23,South,Webcam,Accessories,10,87.38,0,873.8,Debit Card,FALSE,2
+TXN1066,C011,09/12/23,West,Keyboard,Accessories,4,73.84,0,295.36,Cash,FALSE,3
+TXN1067,C050,06/09/23,West,Webcam,Accessories,8,82.88,5,629.89,Cash,FALSE,5
+TXN1068,C029,20/04/23,North,Webcam,Accessories,7,84.55,5,562.26,Cash,FALSE,5
+TXN1069,C024,04/10/23,North,Monitor,Computers,9,352.44,10,2854.76,Credit Card,TRUE,3
+TXN1070,C017,09/03/23,North,Headphones,Audio,8,155.39,15,1056.65,Credit Card,FALSE,3
+TXN1071,C021,20/10/23,South,Mouse,Accessories,5,29.93,5,142.17,PayPal,TRUE,4
+TXN1072,C038,23/10/23,North,Tablet,Computers,2,477.04,0,954.08,Debit Card,FALSE,4
+TXN1073,C003,31/08/23,East,Keyboard,Accessories,5,86.19,,366.31,Cash,FALSE,4
+TXN1074,C038,05/05/23,South,Speaker,Audio,8,124.66,,847.69,Debit Card,FALSE,4
+TXN1075,C026,31/08/23,West,Monitor,Computers,10,352.79,0,3527.9,PayPal,TRUE,4
+TXN1076,C002,28/07/23,South,Keyboard,Accessories,9,80.77,5,690.58,PayPal,FALSE,5
+TXN1077,C020,08/04/23,North,Charger,Accessories,9,24.6,0,221.4,Cash,FALSE,1
+TXN1078,C011,18/02/23,East,USB Hub,Accessories,1,37.03,15,31.48,PayPal,FALSE,3
+TXN1079,C009,19/02/23,East,Headphones,Audio,9,144.71,20,1041.91,Cash,FALSE,5
+TXN1080,C001,04/12/23,North,Speaker,Audio,7,125.14,20,700.78,PayPal,FALSE,5
+TXN1081,C019,09/08/23,East,Monitor,Computers,9,315.1,10,2552.31,PayPal,FALSE,4
+TXN1082,C052,01/07/23,South,Webcam,Accessories,8,82.17,0,657.36,Cash,FALSE,4
+TXN1083,C036,05/08/23,South,Laptop,Computers,1,908.29,0,908.29,PayPal,FALSE,2
+TXN1084,C019,30/07/23,North,Monitor,Computers,8,316.94,10,2281.97,PayPal,FALSE,4
+TXN1085,C019,28/08/23,East,Laptop,Computers,8,1070.02,10,7704.14,PayPal,TRUE,4
+TXN1086,C008,28/01/23,West,Webcam,Accessories,3,92.63,10,250.1,Debit Card,FALSE,3
+TXN1087,C032,11/12/23,South,USB Hub,Accessories,1,38.8,15,32.98,Credit Card,FALSE,3
+TXN1088,C028,01/12/23,South,Headphones,Audio,8,137.02,0,1096.16,Debit Card,FALSE,4
+TXN1089,C052,27/11/23,South,Mouse,Accessories,3,28.95,15,73.82,PayPal,FALSE,1
+TXN1090,C005,20/02/23,South,Monitor,Computers,3,347.15,10,937.3,Credit Card,FALSE,3
+TXN1091,C003,01/02/23,West,Tablet,Computers,1,466.39,0,466.39,Debit Card,FALSE,3
+TXN1092,C023,26/07/23,North,Webcam,Accessories,5,87.82,15,373.23,Debit Card,FALSE,3
+TXN1093,C011,23/06/23,South,Monitor,Computers,10,341.92,15,2906.32,Debit Card,FALSE,2
+TXN1094,C039,25/02/23,East,Charger,Accessories,7,25.58,10,161.15,Cash,FALSE,5
+TXN1095,C044,08/05/23,West,USB Hub,Accessories,10,40.05,0,400.5,PayPal,FALSE,4
+TXN1096,C021,09/04/23,South,Charger,Accessories,9,22.73,10,184.11,PayPal,TRUE,4
+TXN1097,C055,08/04/23,East,Keyboard,Accessories,7,77.02,0,539.14,Credit Card,FALSE,5
+TXN1098,C022,02/10/23,South,Headphones,Audio,9,152.75,20,1099.8,Debit Card,FALSE,4
+TXN1099,C043,18/08/23,North,Keyboard,Accessories,8,79.05,5,600.78,PayPal,FALSE,2
+TXN1100,C021,13/03/23,West,Monitor,Computers,2,373.88,5,710.37,Debit Card,FALSE,4
+TXN1101,C052,05/08/23,North,Speaker,Audio,1,122.78,5,116.64,PayPal,FALSE,4
+TXN1102,C054,04/04/23,West,Speaker,Audio,7,110.98,10,699.17,Debit Card,FALSE,5
+TXN1103,C003,23/05/23,South,Headphones,Audio,7,136.2,20,762.72,PayPal,FALSE,4
+TXN1104,C025,25/08/23,South,Tablet,Computers,8,513.21,0,4105.68,Credit Card,FALSE,
+TXN1105,C053,08/05/23,West,USB Hub,Accessories,5,35.31,15,150.07,Debit Card,FALSE,3
+TXN1106,C018,08/02/23,East,Tablet,Computers,3,507.56,0,1522.68,PayPal,FALSE,4
+TXN1107,C040,15/08/23,East,USB Hub,Accessories,8,42.43,15,288.52,Credit Card,FALSE,4
+TXN1108,C015,09/10/23,South,Webcam,Accessories,6,90.34,0,542.04,Credit Card,FALSE,4
+TXN1109,C036,20/02/23,South,Monitor,Computers,3,341.19,20,818.86,PayPal,FALSE,4
+TXN1110,C010,26/01/23,North,Keyboard,Accessories,1,81.26,15,69.07,Debit Card,FALSE,5
+TXN1111,C045,30/11/23,South,Speaker,Audio,3,118.01,10,318.63,Cash,FALSE,4
+TXN1112,C044,04/10/23,West,Charger,Accessories,5,25.23,0,126.15,Credit Card,FALSE,3
+TXN1113,C002,08/01/23,East,Mouse,Accessories,3,31.56,0,94.68,Credit Card,TRUE,2
+TXN1114,C049,17/02/23,East,Laptop,Computers,1,976.24,15,829.8,PayPal,TRUE,3
+TXN1115,C019,02/05/23,North,Mouse,Accessories,5,31.67,10,142.52,Cash,FALSE,
+TXN1116,C048,27/03/23,East,Keyboard,Accessories,10,85.4,10,768.6,Cash,FALSE,3
+TXN1117,C026,28/07/23,East,Keyboard,Accessories,7,74.19,20,415.46,Cash,FALSE,3
+TXN1118,C027,06/09/23,West,USB Hub,Accessories,7,35.64,10,224.53,PayPal,FALSE,3
+TXN1119,C033,04/09/23,East,Tablet,Computers,9,459.16,10,3719.2,Debit Card,FALSE,3
+TXN1120,C046,20/04/23,North,Mouse,Accessories,10,26.21,,235.89,Credit Card,FALSE,5
+TXN1121,C050,25/07/23,North,USB Hub,Accessories,10,35.84,5,340.48,PayPal,FALSE,2
+TXN1122,C015,31/01/23,East,USB Hub,Accessories,3,40.43,20,97.03,Cash,FALSE,4
+TXN1123,C012,26/03/23,South,Tablet,Computers,7,456.2,0,3193.4,Credit Card,FALSE,4
+TXN1124,C034,14/07/23,East,Charger,Accessories,1,24.09,15,20.48,Credit Card,FALSE,5
+TXN1125,C027,02/01/23,North,Speaker,Audio,4,127.21,0,508.84,Cash,FALSE,2
+TXN1126,C004,19/07/23,North,Headphones,Audio,4,134.79,20,431.33,Cash,FALSE,4
+TXN1127,C014,16/05/23,West,Speaker,Audio,5,126.48,15,537.54,Credit Card,TRUE,5
+TXN1128,C016,21/08/23,East,Laptop,Computers,7,955.41,20,5350.3,Credit Card,FALSE,5
+TXN1129,C042,27/05/23,East,Mouse,Accessories,7,26.79,10,168.78,Debit Card,FALSE,5
+TXN1130,C017,05/08/23,West,Speaker,Audio,4,123.68,15,420.51,Debit Card,FALSE,3
+TXN1131,C011,23/12/23,North,Headphones,Audio,7,152.84,10,962.89,PayPal,FALSE,3
+TXN1132,C054,12/10/23,West,Webcam,Accessories,3,95.72,0,287.16,Credit Card,FALSE,4
+TXN1133,C037,05/12/23,South,Mouse,Accessories,6,30.36,0,182.16,Debit Card,FALSE,5
+TXN1134,C007,07/09/23,East,Headphones,Audio,2,158.04,15,268.67,Credit Card,FALSE,4
+TXN1135,C028,21/03/23,North,USB Hub,Accessories,10,37.3,15,317.05,Cash,FALSE,4
+TXN1136,C001,08/04/23,West,Keyboard,Accessories,9,73.9,20,532.08,Debit Card,FALSE,3
+TXN1137,C037,01/06/23,North,Charger,Accessories,5,26.25,20,105,Cash,FALSE,5
+TXN1138,C002,22/04/23,South,Laptop,Computers,6,1060.31,10,5725.67,Cash,FALSE,3
+TXN1139,C054,30/01/23,East,Headphones,Audio,4,163.62,15,556.31,Cash,FALSE,3
+TXN1140,C013,24/10/23,West,Speaker,Audio,10,116.92,0,1169.2,PayPal,FALSE,4
+TXN1141,C009,05/10/23,North,Keyboard,Accessories,7,76.98,20,431.09,Cash,FALSE,
+TXN1142,C012,01/02/23,East,Speaker,Audio,9,125.58,20,904.18,PayPal,FALSE,3
+TXN1143,C041,10/06/23,East,Mouse,Accessories,7,28.08,0,196.56,Credit Card,FALSE,2
+TXN1144,C020,30/01/23,North,Headphones,Audio,1,161.84,20,129.47,Credit Card,FALSE,4
+TXN1145,C004,26/01/23,East,Speaker,Audio,1,127.53,10,114.78,Debit Card,FALSE,3
+TXN1146,C017,27/10/23,East,Tablet,Computers,9,491.91,15,3763.11,Debit Card,FALSE,4
+TXN1147,C012,02/09/23,West,Monitor,Computers,9,366.51,0,3298.59,PayPal,FALSE,3
+TXN1148,C038,15/09/23,East,Keyboard,Accessories,4,83.02,15,282.27,Credit Card,FALSE,4
+TXN1149,C049,29/09/23,West,Webcam,Accessories,9,81.94,20,589.97,Debit Card,FALSE,4

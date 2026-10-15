@@ -1,0 +1,61 @@
+customer_id,customer_name,city,signup_date,age,loyalty_points
+C001,Customer C001,New York,28/07/22,58,1227
+C002,Customer C002,Philadelphia,28/06/22,63,3270
+C003,Customer C003,Houston,04/10/22,45,2887
+C004,Customer C004,Houston,27/09/22,52,1076
+C005,Customer C005,San Antonio,26/02/23,49,3929
+C006,Customer C006,Phoenix,09/10/22,59,4450
+C007,Customer C007,San Diego,01/05/23,45,2565
+C008,Customer C008,New York,23/02/23,64,2753
+C009,Customer C009,San Diego,13/09/22,49,1264
+C010,Customer C010,San Antonio,27/02/23,59,2087
+C011,Customer C011,Phoenix,22/10/21,54,444
+C012,Customer C012,New York,25/07/21,25,3142
+C013,Customer C013,Dallas,27/01/23,29,2948
+C014,Customer C014,Phoenix,22/01/21,50,1965
+C015,Customer C015,Philadelphia,18/04/21,63,3279
+C016,Customer C016,San Diego,06/04/23,27,1760
+C017,Customer C017,Dallas,11/11/21,61,4944
+C018,Customer C018,Chicago,19/03/21,36,3925
+C019,Customer C019,Phoenix,18/08/22,56,4235
+C020,Customer C020,San Antonio,02/02/21,57,2553
+C021,Customer C021,Phoenix,01/03/21,54,3320
+C022,Customer C022,San Antonio,03/03/22,62,4382
+C023,Customer C023,San Jose,03/11/21,49,2387
+C024,Customer C024,Chicago,14/01/22,22,1185
+C025,Customer C025,Phoenix,25/07/22,36,2506
+C026,Customer C026,San Antonio,04/10/22,63,4861
+C027,Customer C027,San Jose,29/12/22,54,2461
+C028,Customer C028,San Jose,26/08/22,58,2890
+C029,Customer C029,San Diego,12/08/22,49,1808
+C030,Customer C030,Houston,30/10/21,39,2359
+C031,Customer C031,San Antonio,18/07/21,35,3328
+C032,Customer C032,Philadelphia,14/02/23,47,3399
+C033,Customer C033,Houston,13/04/21,32,3223
+C034,Customer C034,Philadelphia,04/06/23,53,4580
+C035,Customer C035,Los Angeles,24/03/23,48,4457
+C036,Customer C036,Philadelphia,09/02/22,44,3022
+C037,Customer C037,Phoenix,13/02/22,32,1554
+C038,Customer C038,Houston,20/03/23,55,2569
+C039,Customer C039,Chicago,26/06/21,60,4846
+C040,Customer C040,Phoenix,29/09/21,40,1496
+C041,Customer C041,San Antonio,17/04/22,35,1528
+C042,Customer C042,Houston,03/12/21,49,2143
+C043,Customer C043,San Antonio,12/05/21,24,2407
+C044,Customer C044,Philadelphia,18/06/23,61,933
+C045,Customer C045,San Antonio,14/05/21,56,4754
+C046,Customer C046,Los Angeles,03/04/22,25,4162
+C047,Customer C047,New York,08/06/23,37,243
+C048,Customer C048,Dallas,21/05/23,52,3088
+C049,Customer C049,Dallas,13/12/22,51,1846
+C050,Customer C050,Houston,20/12/22,32,1314
+C051,Customer C051,Los Angeles,03/02/22,56,4754
+C052,Customer C052,Dallas,05/03/22,48,3502
+C053,Customer C053,Phoenix,30/07/22,28,3484
+C054,Customer C054,Chicago,03/01/23,55,1669
+C055,Customer C055,Dallas,03/07/21,33,4835
+C056,Customer C056,San Diego,04/01/22,52,4346
+C057,Customer C057,Houston,14/09/21,28,3417
+C058,Customer C058,Phoenix,01/08/21,37,2602
+C059,Customer C059,San Antonio,08/10/21,53,2893
+C060,Customer C060,San Diego,20/04/22,25,3357

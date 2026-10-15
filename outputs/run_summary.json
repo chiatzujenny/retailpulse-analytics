@@ -1,0 +1,35 @@
+{
+  "data_audit": {
+    "transactions": 150,
+    "customers": 60,
+    "missing_discounts_filled_with_zero": 5,
+    "missing_ratings_preserved": 8,
+    "revenue_formula_discrepancy_ids": [
+      "TXN1008",
+      "TXN1073",
+      "TXN1074",
+      "TXN1120"
+    ],
+    "revenue_formula_difference_total": -261.77,
+    "transactions_before_signup": 9,
+    "transaction_date_min": "2023-01-01",
+    "transaction_date_max": "2023-12-29",
+    "join_preserves_transaction_count": true
+  },
+  "kpis": {
+    "transactions": 150,
+    "purchasing_customers": 53,
+    "revenue_after_discount": 166909.56,
+    "average_transaction_value": 1112.7304,
+    "return_count": 19,
+    "return_rate": 0.12666666666666668,
+    "average_observed_rating": 3.556338028169014,
+    "rating_response_rate": 0.9466666666666667
+  },
+  "payment_diagnostics": {
+    "cells_with_expected_count_below_5": 3,
+    "total_cells": 8,
+    "repeated_customers_present": true,
+    "interpretation": "Descriptive association only; no causal or independent-sample significance claim."
+  }
+}

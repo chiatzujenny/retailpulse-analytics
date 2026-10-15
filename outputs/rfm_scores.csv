@@ -1,0 +1,61 @@
+customer_id,recency_days,transaction_count,total_revenue,purchase_status,R_score,F_score,M_score,RFM_score
+C051,2.0,5,6697.51,Observed purchaser,5,5,5,15
+C049,54.0,4,5497.32,Observed purchaser,4,5,5,14
+C011,8.0,7,5065.530000000001,Observed purchaser,5,5,4,14
+C053,101.0,4,10301.6,Observed purchaser,3,5,5,13
+C009,87.0,4,9639.87,Observed purchaser,3,5,5,13
+C012,100.0,4,8013.98,Observed purchaser,3,5,5,13
+C054,80.0,4,2416.4399999999996,Observed purchaser,4,5,4,13
+C019,125.0,4,12680.94,Observed purchaser,2,5,5,12
+C023,27.0,3,4602.1900000000005,Observed purchaser,5,3,4,12
+C037,26.0,3,2172.12,Observed purchaser,5,3,4,12
+C015,81.0,4,1878.04,Observed purchaser,4,5,3,12
+C044,63.0,4,1697.39,Observed purchaser,4,5,3,12
+C052,34.0,4,970.22,Observed purchaser,5,5,2,12
+C016,41.0,2,7084.83,Observed purchaser,4,2,5,11
+C017,65.0,3,5240.27,Observed purchaser,4,3,4,11
+C042,92.0,4,2052.36,Observed purchaser,3,5,3,11
+C002,156.0,3,6510.93,Observed purchaser,2,3,5,10
+C025,128.0,3,6341.25,Observed purchaser,2,3,5,10
+C035,58.0,2,4336.35,Observed purchaser,4,2,4,10
+C039,94.0,3,2805.21,Observed purchaser,3,3,4,10
+C038,69.0,3,2084.04,Observed purchaser,4,3,3,10
+C003,122.0,4,1830.68,Observed purchaser,2,5,3,10
+C028,30.0,3,1648.45,Observed purchaser,5,3,2,10
+C001,27.0,3,1400.44,Observed purchaser,5,3,2,10
+C050,11.0,3,1260.69,Observed purchaser,5,3,2,10
+C033,118.0,2,9465.76,Observed purchaser,2,2,5,9
+C010,238.0,3,8478.369999999999,Observed purchaser,1,3,5,9
+C022,88.0,3,2050.7999999999997,Observed purchaser,3,3,3,9
+C048,114.0,3,1863.78,Observed purchaser,3,3,3,9
+C021,72.0,3,1036.65,Observed purchaser,4,3,2,9
+C026,122.0,2,3943.36,Observed purchaser,2,2,4,8
+C047,179.0,3,2966.77,Observed purchaser,1,3,4,8
+C024,88.0,1,2854.76,Observed purchaser,3,1,4,8
+C006,199.0,3,2399.92,Observed purchaser,1,3,4,8
+C040,138.0,3,1761.1799999999998,Observed purchaser,2,3,3,8
+C013,68.0,2,1228.26,Observed purchaser,4,2,2,8
+C045,31.0,2,497.11,Observed purchaser,5,2,1,8
+C041,21.0,2,433.48,Observed purchaser,5,2,1,8
+C032,20.0,2,284.08,Observed purchaser,5,2,1,8
+C008,303.0,3,1745.52,Observed purchaser,1,3,3,7
+C036,148.0,2,1727.15,Observed purchaser,2,2,3,7
+C004,165.0,3,1449.98,Observed purchaser,2,3,2,7
+C007,115.0,2,1207.48,Observed purchaser,3,2,2,7
+C046,83.0,2,449.73,Observed purchaser,4,2,1,7
+C027,116.0,2,733.37,Observed purchaser,3,2,1,6
+C020,140.0,3,608.9200000000001,Observed purchaser,2,3,1,6
+C029,247.0,2,1287.33,Observed purchaser,1,2,2,5
+C018,326.0,1,1522.68,Observed purchaser,1,1,2,4
+C005,314.0,1,937.3,Observed purchaser,1,1,2,4
+C043,135.0,1,600.78,Observed purchaser,2,1,1,4
+C034,170.0,2,69.71,Observed purchaser,1,2,1,4
+C055,267.0,1,539.14,Observed purchaser,1,1,1,3
+C014,229.0,1,537.54,Observed purchaser,1,1,1,3
+C030,,0,0.0,No observed purchases,,,,
+C031,,0,0.0,No observed purchases,,,,
+C056,,0,0.0,No observed purchases,,,,
+C057,,0,0.0,No observed purchases,,,,
+C058,,0,0.0,No observed purchases,,,,
+C059,,0,0.0,No observed purchases,,,,
+C060,,0,0.0,No observed purchases,,,,

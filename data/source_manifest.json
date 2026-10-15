@@ -1,0 +1,13 @@
+{
+  "purpose": "USC MSBA pre-program RetailPulse educational case portfolio adaptation",
+  "transaction_source": "01_Week 0 Raw Data/sales_transactions.csv",
+  "customer_source": "03_Week 5 External/customers.csv",
+  "source_transaction_sha256": "793cf64b78cffdfb56ee5645d0d0ea1ccc214ab3b3366a56579522544edd73bb",
+  "source_customer_sha256": "f78e54adb11ed4f7e08d84a0412a32da21a688d83dff4025e79bdb6ed5a1e566",
+  "included_transaction_sha256": "793cf64b78cffdfb56ee5645d0d0ea1ccc214ab3b3366a56579522544edd73bb",
+  "included_customer_sha256": "23611fb5ca5345e8762ae27d7ad54fc1fbe0ecd7a5e42e09b2e714a9a8229f84",
+  "transformation": "Customer names replaced by Customer + original customer_id; analytical values unchanged.",
+  "transactions": 150,
+  "customers": 60,
+  "join_preserves_transaction_count": true
+}

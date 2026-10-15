@@ -1,0 +1,5 @@
+payment_method,expected_not_returned,expected_returned
+Cash,34.06,4.94
+Credit Card,29.69333333333333,4.306666666666667
+Debit Card,28.82,4.18
+PayPal,38.42666666666667,5.573333333333333

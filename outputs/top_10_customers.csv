@@ -1,0 +1,11 @@
+customer_id,customer_name,city,signup_date,age,loyalty_points,total_revenue,transaction_count,average_transaction_value,return_count,return_rate,average_observed_rating,rated_transactions,unique_products,last_transaction_date,days_since_signup,recency_days,signup_cohort,customer_tier
+C019,Customer C019,Phoenix,2022-08-18,56,4235,12680.94,4,3170.235,1,0.25,4.0,3,3,2023-08-28,500,125.0,2022Q3,Platinum
+C053,Customer C053,Phoenix,2022-07-30,28,3484,10301.6,4,2575.4,0,0.0,3.75,4,4,2023-09-21,519,101.0,2022Q3,Platinum
+C009,Customer C009,San Diego,2022-09-13,49,1264,9639.87,4,2409.9675,0,0.0,3.0,3,4,2023-10-05,474,87.0,2022Q3,Platinum
+C033,Customer C033,Houston,2021-04-13,32,3223,9465.76,2,4732.88,0,0.0,3.0,2,2,2023-09-04,992,118.0,2021Q2,Platinum
+C010,Customer C010,San Antonio,2023-02-27,59,2087,8478.369999999999,3,2826.123333333333,0,0.0,4.666666666666667,3,3,2023-05-07,307,238.0,2023Q1,Platinum
+C012,Customer C012,New York,2021-07-25,25,3142,8013.98,4,2003.495,0,0.0,3.3333333333333335,3,4,2023-09-22,889,100.0,2021Q3,Platinum
+C016,Customer C016,San Diego,2023-04-06,27,1760,7084.83,2,3542.415,0,0.0,4.5,2,1,2023-11-20,269,41.0,2023Q2,Gold
+C051,Customer C051,Los Angeles,2022-02-03,56,4754,6697.51,5,1339.502,2,0.4,3.8,5,3,2023-12-29,696,2.0,2022Q1,Gold
+C002,Customer C002,Philadelphia,2022-06-28,63,3270,6510.93,3,2170.31,1,0.3333333333333333,3.3333333333333335,3,3,2023-07-28,551,156.0,2022Q2,Gold
+C025,Customer C025,Phoenix,2022-07-25,36,2506,6341.25,3,2113.75,0,0.0,4.0,2,3,2023-08-25,524,128.0,2022Q3,Gold
