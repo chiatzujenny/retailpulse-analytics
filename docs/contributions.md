@@ -3,7 +3,7 @@
 ## Original coursework
 
 RetailPulse originated as a USC MS Business Analytics pre-program team assignment.
-Jenny reports being the primary contributor to the original coding and analysis.
+I was the primary contributor to the original coding and analysis.
 The portfolio is attributed to team coursework and does not claim sole authorship
 of the original submission. The original notebook is retained locally as a source.
 
@@ -15,7 +15,7 @@ original submission, with Codex assistance. These are subsequent portfolio
 improvements and are not represented as code all present in the class submission.
 
 The revision has been executed on matching course-case inputs. Readers can inspect
-committed notebook outputs, source code and the validation record. Jenny should
+committed notebook outputs, source code and the validation record. I should
 be able to explain missing-value choices, RFM scoring and business interpretations
 when discussing the project in interviews.
 

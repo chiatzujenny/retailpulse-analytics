@@ -6,6 +6,16 @@ A portfolio adaptation of a USC MS Business Analytics pre-program team project,
 analyzing **150 transactions, 60 registered customers, four regions and 10 products**
 in an educational retail case. The 2023 observation window contains 53 purchasers.
 
+## Project timeline
+
+- **Summer 2026 — Original coursework:** USC MSBA pre-program team project.
+  I was the primary coding/analysis contributor. Work was done in Colab
+  with Google Drive inputs. No GitHub repository existed at that time.
+- **October 2026 — Portfolio revision, this repository:** With Codex
+  assistance, I refactored the notebook into a reusable Python module
+  with CLI exports, added regression tests and dashboard reporting,
+  added explicit data validation, and corrected the methods listed below.
+
 **[One-page executive summary](outputs/executive_summary.pdf)** ·
 **[Executed notebook](notebooks/report.ipynb)** ·
 **[Analysis code](src/retail_analytics.py)**
@@ -28,6 +38,11 @@ No realized business impact is claimed.
 
 ## What the project demonstrates
 
+(in this portfolio revision)
+
+The original notebook already had reusable functions. This revision moved them
+out of the notebook into a separate `src/` module.
+
 - **Data preparation:** explicit dates, boolean normalization, missingness flags,
   key validation, many-to-one joins and revenue-formula checks.
 - **Business analysis:** regional/product KPIs, transaction counts, discount-band
@@ -45,6 +60,8 @@ No realized business impact is claimed.
   All 150 transactions match the 60-customer master without row expansion.
 - **Five missing discounts:** filled with zero for loading, flagged, and shown as a
   separate Missing discount band in comparisons.
+  The fifth missing-discount record matches the 0% formula, so it is not listed
+  as a formula exception. Only four records differ by more than $0.01.
 - **Eight missing ratings:** kept missing; low-rating rates use observed responses.
 - **Four formula exceptions:** source revenue is preserved; differences are in
   [revenue_formula_checks.csv](outputs/revenue_formula_checks.csv).
@@ -52,6 +69,18 @@ No realized business impact is claimed.
   loyalty enrollment rather than first purchase.
 - Customer names are replaced with ID-based labels. Analytical values and IDs are
   unchanged. [Source fingerprints](data/source_manifest.json) document the versions.
+
+## Original vs. Revision
+
+| Area | Original | Revision |
+|---|---|---|
+| Code form | Notebook functions in Colab | Separate `src/` module + CLI |
+| Data validation | Basic info/merge, missing discounts filled with 0% | Explicit identifier, join cardinality, and revenue-formula checks, missing values flagged |
+| Ratings | Customer-mean imputation in the discount analysis | Kept missing, observed responses only |
+| RFM | `rank(method="first")` broke ties by row order | Tie-preserving scores |
+| Payment test | Chi-square p = 0.00183 presented as significant | Descriptive only, not a standalone verdict |
+| Reporting | Notebook charts and CSVs | Dashboard, one-page PDF, 17 CSVs, validation record, 12 regression tests on artificial fixtures |
+| Privacy | Real customer names in the local notebook | ID-based labels in all public inputs |
 
 ## Run the project
 
@@ -97,10 +126,10 @@ docs/          Methodology, findings, attribution and resume wording
 
 ## Scope and attribution
 
-This is a retrospective portfolio adaptation of team coursework. Jenny was the
+This is a retrospective portfolio adaptation of team coursework. I was the
 primary coding/analysis contributor of this team project. Subsequent refactoring,
 testing and documentation were developed with Codex assistance.
-See [contributions](docs/contributions.md).
+See [contributions](docs/contributions.md) and [resume wording](docs/resume.md).
 
 The course brief is not republished. Data is attributed to the USC MSBA pre-program
 RetailPulse exercise; no independent license for course materials is asserted.
