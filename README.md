@@ -98,7 +98,7 @@ docs/          Methodology, findings, attribution and resume wording
 ## Scope and attribution
 
 This is a retrospective portfolio adaptation of team coursework. Jenny was the
-primary coding/analysis contributor based on her account. Subsequent refactoring,
+primary coding/analysis contributor of this team project. Subsequent refactoring,
 testing and documentation were developed with Codex assistance.
 See [contributions](docs/contributions.md).
 
